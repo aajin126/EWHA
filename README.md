@@ -13,3 +13,5 @@
 <img width="496" alt="image" src="https://github.com/aajin126/EWHA/assets/122766068/14c93b73-72fe-4d97-bfe0-6f4bdf488f80">
 <img width="496" alt="image" src="https://github.com/aajin126/EWHA/assets/122766068/28ac98b3-7be0-4609-a85d-e274cb750d41">
 
+# 2. 사용자 감정 문장 기반 도서 추천 시스템
+![Team14_Poster](https://github.com/aajin126/EWHA/assets/122766068/f3327cfe-1282-408c-9679-e86025b79bd6)
