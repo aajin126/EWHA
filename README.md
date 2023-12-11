@@ -18,6 +18,6 @@
 
 # 3. Robot Arm
 <img width="388" alt="image" src="https://github.com/aajin126/EWHA/assets/122766068/77406baa-693c-4525-ba7d-a7832c7bec89">
-###### Blinn-Phong
+##### Blinn-Phong
 <img width="386" alt="image" src="https://github.com/aajin126/EWHA/assets/122766068/f09a45b9-062a-4ef6-ba79-fd9c6c0714b6">
-###### Spot Light
+##### Spot Light
