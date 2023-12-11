@@ -15,3 +15,9 @@
 
 # 2. 사용자 감정 문장 기반 도서 추천 시스템
 ![Team14_Poster](https://github.com/aajin126/EWHA/assets/122766068/f3327cfe-1282-408c-9679-e86025b79bd6)
+
+# 3. Robot Arm
+<img width="388" alt="image" src="https://github.com/aajin126/EWHA/assets/122766068/77406baa-693c-4525-ba7d-a7832c7bec89">
+####### Blinn-Phong
+<img width="386" alt="image" src="https://github.com/aajin126/EWHA/assets/122766068/f09a45b9-062a-4ef6-ba79-fd9c6c0714b6">
+####### Spot Light
