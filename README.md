@@ -15,6 +15,7 @@
 
 # 2. 사용자 감정 문장 기반 도서 추천 시스템
 ![Team14_Poster](https://github.com/aajin126/EWHA/assets/122766068/f3327cfe-1282-408c-9679-e86025b79bd6)
+사용자 감정 문장을 통해 감정 분석을 하고, 그 결과로 도서를 추천해주는 서비스입니다. 
 
 # 3. Robot Arm
 <img width="388" alt="image" src="https://github.com/aajin126/EWHA/assets/122766068/77406baa-693c-4525-ba7d-a7832c7bec89">
